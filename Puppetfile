@@ -1,4 +1,4 @@
 mod 'test',
   :git => 'git://github.com/hibbert/test',
-  :tag => '1'
+  :tag => '2'
 
